@@ -17,7 +17,8 @@ View on [npm](https://www.npmjs.org/package/css-resolution)
 ## File Size
 
 46B resolution.css
-0B Jresolution.min.css
+0B Jresolution.min.css 
+29B minified and gzipped
 
 ## The Code
 ```
